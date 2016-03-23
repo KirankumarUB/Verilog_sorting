@@ -10,7 +10,6 @@ Once all the values have been imported, the sorting algorithm starts to sort the
 Always at the positive edge of the signal named display, and when the start_display bit is 1, the sorted numbers will be display in ascending order 
 (5, 6, 10, 14) in the simulation window one after the other through the output partE.
 
-Note: The signal named “display” has been added in the test_project1.v and project1.v files to trigger the output partE, 
-rest all other signal names are unchanged in the files.
+
  
 
